@@ -31,6 +31,9 @@ another version of the repo easily which may be intended for another language.
 
 How do the diagrams help you visualize the branch structure?
 
+We can see the different branches together and how they are connected to
+each other.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
