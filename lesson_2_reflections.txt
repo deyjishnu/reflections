@@ -22,6 +22,13 @@ logical change.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Some situations when branches would be helpful are:
+    Checking experimental features.
+    Creating a version of the repo for another language.
+Branches can help us divert from our official version (master branch) and check
+other features which are not intended as the official version. Also, we can maintain
+another version of the repo easily which may be intended for another language.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
