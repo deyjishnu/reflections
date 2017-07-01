@@ -44,3 +44,9 @@ in the merged branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Pros: It automatically merges unless there is a conflict, making the work of
+the collaborators easier.
+Cons: If changes are made to the same line by both the users, git's automatic
+merging cannot resolve the conflict. Then the users have to manually resolve
+the conflict.
